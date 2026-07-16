@@ -43,7 +43,8 @@ Which two actions should you perfor¿? Each correct answer presents part of the 
 
 <details>
 <summary><b>View correct answer</b></summary>
-**Correct Answer: C and E **
+ 
+**Correct Answer: C and E**
 ---
 ### 3. You have an Azure Databricks named Workspace1 that contains a cluster named Cluster1.
 
@@ -57,7 +58,8 @@ What should you do¿?
 
 <details>
 <summary><b>View correct answer</b></summary>
-**Correct Answer: C **
+ 
+**Correct Answer: C**
 ---
 ### 4. You have an Azure Databricks that contains the objects shown in the following table.
 
@@ -83,7 +85,8 @@ To which object should you add the instrucions?
 
 <details>
 <summary><b>View correct answer</b></summary>
-**Correct Answer: A **
+ 
+**Correct Answer: A**
 ---
 ### 5. You have an Azure Databricks that is enabled for Unity Catalog and contains a catalog named finance.
 
@@ -115,7 +118,9 @@ CREATE ..... (
 
 <details>
 <summary><b>View correct answer</b></summary>
-**Correct Answer: CATALOG finance, SCHEMA procurement, assets **
+ 
+**Correct Answer: CATALOG finance, SCHEMA procurement, assets**
+
 ### 🚀 Obtén el Dump Completo (+150 Preguntas + Tarjetas Anki)
 
 Si esta prueba te sirvió y quieres asegurar tu aprobación, adquiere el paquete completo bajo el modelo **"Paga lo que quieras" (desde solo $4.00 USD)**.
