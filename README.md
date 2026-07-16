@@ -130,6 +130,5 @@ Mantenemos un precio mínimo simbólico para asegurar que cualquier estudiante e
 [Obtener Dump Completo](https://jolu45.gumroad.com/l/dp-750?wanted=true)
 
 #### ¿Qué incluye la descarga del contenido completo?
-1. **Banco completo en Markdown (.md):** Más de 150 preguntas con respuestas interactivas desplegables.
-2. **Explicaciones en español:** El porqué de cada respuesta explicado de forma clara y directa.
-3. **Mazo de Flashcards para Anki (.apkg):** Estudia eficientemente en tu móvil o PC usando repetición espaciada.
+1. **Banco completo en Markdown (.pdf):** Más de 50 preguntas con respuestas interactivas desplegables.
+2. **Explicaciones en ingles:** El porqué de cada respuesta explicado de forma clara y directa. (el examen es en ingles)
