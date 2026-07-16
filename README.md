@@ -9,7 +9,7 @@ Welcome to the most complete, interactive, and community-friendly practice resou
 
 ## 🇬🇧 English Version
 
-Below you will find **10 free interactive demo questions** to test your knowledge. Click on **"View correct answer"** to reveal the answer and explanation.
+Below you will find **5 free interactive demo questions** to test your knowledge. Click on **"View correct answer"** to reveal the answer and explanation.
 
 ### 📝 Free Practice Questions (5 Demo)
 ### 1. You have an Azure Databricks workspace named Workspace 1.
