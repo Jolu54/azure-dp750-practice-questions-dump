@@ -127,7 +127,7 @@ Si esta prueba te sirvió y quieres asegurar tu aprobación, adquiere el paquete
 
 Mantenemos un precio mínimo simbólico para asegurar que cualquier estudiante en Latinoamérica, España o cualquier parte del mundo acceda a material premium. Si estás ajustado, paga el mínimo; si quieres apoyar nuestro trabajo, ¡puedes aportar un poco más!
 
-[![Obtener Dump Completo](https://jolu45.gumroad.com/l/dp-750?wanted=true)
+[Obtener Dump Completo](https://jolu45.gumroad.com/l/dp-750?wanted=true)
 
 #### ¿Qué incluye la descarga del contenido completo?
 1. **Banco completo en Markdown (.md):** Más de 150 preguntas con respuestas interactivas desplegables.
