@@ -130,5 +130,5 @@ Mantenemos un precio mínimo simbólico para asegurar que cualquier estudiante e
 [Obtener Dump Completo](https://jolu45.gumroad.com/l/dp-750?wanted=true)
 
 #### ¿Qué incluye la descarga del contenido completo?
-1. **Banco completo en Markdown (.pdf):** Más de 50 preguntas con respuestas interactivas desplegables.
+1. **Banco completo en pdf (.pdf):** Más de 50 preguntas con respuestas interactivas desplegables.
 2. **Explicaciones en ingles:** El porqué de cada respuesta explicado de forma clara y directa. (el examen es en ingles)
